@@ -19,7 +19,7 @@
 - 修正無法進入第三關的問題。
 
 ### 移除
-- 移除 backgrounds、file、fonts、picture 資料夾。
+- 移除 backgrounds、file、fonts、pictures 資料夾。
 
 ## [v25.04.04] - 114/04/04
 ### 初次版本
